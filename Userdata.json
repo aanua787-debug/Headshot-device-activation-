@@ -28,5 +28,11 @@
         "key": "CLASSY1",
         "expirydate": "30-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b12802ca763495e9",
+        "key": "RAHIL1",
+        "expirydate": "20-10-2027",
+        "Allowoffline": false
     }
 ]
