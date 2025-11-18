@@ -35,4 +35,10 @@
         "expirydate": "20-10-2027",
         "Allowoffline": false
     }
+    {
+        "device_id": "cde4df6a4ecb2faf",
+        "key": "BLACK1",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    }
 ]
