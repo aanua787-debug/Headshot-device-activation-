@@ -46,5 +46,11 @@
         "key": "MIR1",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1a89c3cbadcf96fa",
+        "key": "IRFAN1",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
     }
 ]
