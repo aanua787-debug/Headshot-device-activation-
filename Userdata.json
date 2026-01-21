@@ -52,5 +52,11 @@
         "key": "IRFAN1",
         "expirydate": "30-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2a6e2003881e3d53",
+        "key": "RAHIL",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
     }
 ]
