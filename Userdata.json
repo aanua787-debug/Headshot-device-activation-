@@ -48,7 +48,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "1a89c3cbadcf96fa",
+        "device_id": "e566c9def2f93f0c",
         "key": "IRFAN1",
         "expirydate": "30-12-2026",
         "Allowoffline": false
@@ -58,5 +58,13 @@
         "key": "RAHIL",
         "expirydate": "30-12-2026",
         "Allowoffline": false
+    },
+        {
+            
+        "device_id": "e566c9def2f93f0c",
+        "key": "CLASSY",
+        "expirydate": "30-12-2027",
+        "Allowoffline": false
     }
+
 ]
